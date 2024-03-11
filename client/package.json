@@ -1,5 +1,5 @@
 {
-  "name": "BETE",
+  "name": "bete",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",

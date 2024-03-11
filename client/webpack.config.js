@@ -23,8 +23,12 @@ module.exports = () => {
         title: "BETE",
       }),
       // swSrc and swDest?
-      new InjectManifest(),
+      new InjectManifest({
+        swSrc: './src-sw.js',
+        swDest: 'src-sw.js'
+      }),
       new WebpackPwaManifest({
+        fingerprints: false,
         inject: true,
         name: "Best Ever Text Editor",
         short_name: "BETE",
