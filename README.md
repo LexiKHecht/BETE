@@ -6,6 +6,10 @@
 		alt="bete logo"
 		src="https://github.com/LexiKHecht/BETE/assets/145725343/968d3b0d-caae-499d-8817-60a6fb72f3a8">  
 
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+
  </div>
 
  ## Description
@@ -35,14 +39,13 @@ To initiate the app, run the following command:
 - Cute ASIIC art!
 
 
-[BTF-Demo.webm](https://github.com/LexiKHecht/Better-Than-Facebook/assets/145725343/b03d38bf-afc7-4efc-aa5c-a6d3be02f155)
+
+![BETE](https://github.com/LexiKHecht/BETE/assets/145725343/c43974ec-a6a5-4238-a311-51d1d95898a4)
 
 
 ## Technology Used
 - [Express](https://expressjs.com/)
-- [Webpack]
-- [Workbox]
-- [IndexedDB]
+- [Webpack](https://webpack.js.org/)
 - [Nodemon](https://nodemon.io/)
 
 ## License
